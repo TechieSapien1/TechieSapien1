@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Techie Sapien
 - 👀 I’m interested in AI, Tech & Robotics.
 - 🌱 I’m currently learning VFX & ComfyUI
-- 💞️ I’m looking to collaborate on AI
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me - Just DM me on X (@TechieSapien)
 - ⚡ Doing job at Creative Agency
 
